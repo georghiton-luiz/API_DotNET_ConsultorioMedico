@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicMedical", "ClinicMedical\ClinicMedical.csproj", "{0B0F1FF5-2D85-4310-9988-A214DC8B29B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicMedical.APIRest.Application", "ClinicMedical.APIRest.Application\ClinicMedical.APIRest.Application.csproj", "{2FD8E7DA-A642-4690-B133-C0DAA4F16AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicMedical.APIRest.Domain", "ClinicMedical.APIRest.Domain\ClinicMedical.APIRest.Domain.csproj", "{0BC67A3B-3C06-4C7E-8906-7E78EEA4260E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicMedical.APIRest.Infra.Data", "ClinicMedical.APIRest.Infra.Data\ClinicMedical.APIRest.Infra.Data.csproj", "{A65775F5-F86C-4772-BB9E-7780DA5DDA0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicMedical.APIRest.Infra.Ioc", "ClinicMedical.APIRest.Infra.Ioc\ClinicMedical.APIRest.Infra.Ioc.csproj", "{AD578FDA-66E9-4B8F-AD17-4CB5820CD5B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B0F1FF5-2D85-4310-9988-A214DC8B29B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0F1FF5-2D85-4310-9988-A214DC8B29B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0F1FF5-2D85-4310-9988-A214DC8B29B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0F1FF5-2D85-4310-9988-A214DC8B29B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD8E7DA-A642-4690-B133-C0DAA4F16AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD8E7DA-A642-4690-B133-C0DAA4F16AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD8E7DA-A642-4690-B133-C0DAA4F16AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD8E7DA-A642-4690-B133-C0DAA4F16AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC67A3B-3C06-4C7E-8906-7E78EEA4260E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC67A3B-3C06-4C7E-8906-7E78EEA4260E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC67A3B-3C06-4C7E-8906-7E78EEA4260E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC67A3B-3C06-4C7E-8906-7E78EEA4260E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65775F5-F86C-4772-BB9E-7780DA5DDA0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65775F5-F86C-4772-BB9E-7780DA5DDA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65775F5-F86C-4772-BB9E-7780DA5DDA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65775F5-F86C-4772-BB9E-7780DA5DDA0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD578FDA-66E9-4B8F-AD17-4CB5820CD5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD578FDA-66E9-4B8F-AD17-4CB5820CD5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD578FDA-66E9-4B8F-AD17-4CB5820CD5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD578FDA-66E9-4B8F-AD17-4CB5820CD5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A92EF39D-E547-4ECA-9BBB-6BB6A47AE846}
+	EndGlobalSection
+EndGlobal

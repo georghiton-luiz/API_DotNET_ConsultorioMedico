@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClinicMedical.APIRest.Application\ClinicMedical.APIRest.Application.csproj" />
+    <ProjectReference Include="..\ClinicMedical.APIRest.Domain\ClinicMedical.APIRest.Domain.csproj" />
+    <ProjectReference Include="..\ClinicMedical.APIRest.Infra.Data\ClinicMedical.APIRest.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
