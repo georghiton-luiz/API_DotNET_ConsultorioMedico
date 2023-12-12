@@ -1,0 +1,15 @@
+C:\Users\Geo&Tati\source\repos\ClinicMedical\ClinicMedical.APIRest.Domain\bin\Debug\net7.0\ClinicMedical.APIRest.Domain.deps.json
+C:\Users\Geo&Tati\source\repos\ClinicMedical\ClinicMedical.APIRest.Domain\bin\Debug\net7.0\ClinicMedical.APIRest.Domain.runtimeconfig.json
+C:\Users\Geo&Tati\source\repos\ClinicMedical\ClinicMedical.APIRest.Domain\bin\Debug\net7.0\ClinicMedical.APIRest.Domain.dll
+C:\Users\Geo&Tati\source\repos\ClinicMedical\ClinicMedical.APIRest.Domain\bin\Debug\net7.0\ClinicMedical.APIRest.Domain.pdb
+C:\Users\Geo&Tati\source\repos\ClinicMedical\ClinicMedical.APIRest.Domain\obj\Debug\net7.0\ClinicMedical.APIRest.Domain.csproj.AssemblyReference.cache
+C:\Users\Geo&Tati\source\repos\ClinicMedical\ClinicMedical.APIRest.Domain\obj\Debug\net7.0\ClinicMedical.APIRest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geo&Tati\source\repos\ClinicMedical\ClinicMedical.APIRest.Domain\obj\Debug\net7.0\ClinicMedical.APIRest.Domain.AssemblyInfoInputs.cache
+C:\Users\Geo&Tati\source\repos\ClinicMedical\ClinicMedical.APIRest.Domain\obj\Debug\net7.0\ClinicMedical.APIRest.Domain.AssemblyInfo.cs
+C:\Users\Geo&Tati\source\repos\ClinicMedical\ClinicMedical.APIRest.Domain\obj\Debug\net7.0\ClinicMedical.APIRest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Geo&Tati\source\repos\ClinicMedical\ClinicMedical.APIRest.Domain\obj\Debug\net7.0\ClinicMedical.APIRest.Domain.sourcelink.json
+C:\Users\Geo&Tati\source\repos\ClinicMedical\ClinicMedical.APIRest.Domain\obj\Debug\net7.0\ClinicMedical.APIRest.Domain.dll
+C:\Users\Geo&Tati\source\repos\ClinicMedical\ClinicMedical.APIRest.Domain\obj\Debug\net7.0\refint\ClinicMedical.APIRest.Domain.dll
+C:\Users\Geo&Tati\source\repos\ClinicMedical\ClinicMedical.APIRest.Domain\obj\Debug\net7.0\ClinicMedical.APIRest.Domain.pdb
+C:\Users\Geo&Tati\source\repos\ClinicMedical\ClinicMedical.APIRest.Domain\obj\Debug\net7.0\ClinicMedical.APIRest.Domain.genruntimeconfig.cache
+C:\Users\Geo&Tati\source\repos\ClinicMedical\ClinicMedical.APIRest.Domain\obj\Debug\net7.0\ref\ClinicMedical.APIRest.Domain.dll

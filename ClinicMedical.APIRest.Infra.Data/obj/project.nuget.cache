@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Qm+MbW9Xat1ovd9l1Cvjrag7X8lfQd9qDSBDvUX9dVbRStJV3Hu0PAnD3VSL9ArgAv+ZnbWSJYF2FIvxNxIyEw==",
+  "dgSpecHash": "w5uCE8lPbbbGWPoFwJLL2wwsSaL0MiWn4vZIFqnb/mLejGjV4dp4ynXQK1JRt8ZdD7Te0jhCt1ZGNuMzeXQwkw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Geo&Tati\\source\\repos\\ClinicMedical\\ClinicMedical.APIRest.Infra.Data\\ClinicMedical.APIRest.Infra.Data.csproj",
   "expectedPackageFiles": [
@@ -37,9 +37,13 @@
     "C:\\Users\\Geo&Tati\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.15.1\\microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
     "C:\\Users\\Geo&Tati\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.15.1\\microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
     "C:\\Users\\Geo&Tati\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.1\\microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\Geo&Tati\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Geo&Tati\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Geo&Tati\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
     "C:\\Users\\Geo&Tati\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\7.0.0\\pomelo.entityframeworkcore.mysql.7.0.0.nupkg.sha512",
+    "C:\\Users\\Geo&Tati\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Geo&Tati\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Geo&Tati\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\Geo&Tati\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\Geo&Tati\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.15.1\\system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
     "C:\\Users\\Geo&Tati\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",

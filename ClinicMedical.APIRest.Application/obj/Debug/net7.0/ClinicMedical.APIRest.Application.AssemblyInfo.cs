@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClinicMedical.APIRest.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+963a6517739c4b9199ebf73f88f3fff10ba0e4a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClinicMedical.APIRest.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClinicMedical.APIRest.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
