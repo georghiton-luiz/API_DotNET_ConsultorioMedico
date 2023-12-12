@@ -1,4 +1,5 @@
 ﻿using ClinicMedical.APIRest.Domain.Entities;
+using ClinicMedical.APIRest.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,7 +13,7 @@ namespace ClinicMedical.APIRest.Domain.Acount
         Task<bool>AuthenticateAsync(string login, string password);
         Task<bool> UserExistsByCPF_CNPJ(string cPF_CNPJ);
         Task<bool> IsLoginExists(string cPF_CNPJ);
-        Task<PatientEntity> UserExistsByLogin(string login);
+        Task<User> UserExistsByLogin(string login);
         public string GenerationToken(int id, string login);
     }
 }

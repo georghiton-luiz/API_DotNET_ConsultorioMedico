@@ -10,6 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
+using System.Numerics;
 using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
@@ -157,9 +158,26 @@ namespace ClinicMedical.APIRest.Infra.Data.Identity
             return true;
         }
 
-        public async Task<PatientEntity> UserExistsByLogin(string login)
+        public async Task<User> UserExistsByLogin(string login)
         {
-            return await _dbContext.Patients.Where(p => p.Login.ToLower() == login.ToLower()).FirstOrDefaultAsync();
+            var patient = await _dbContext.Patients.FirstOrDefaultAsync(x => x.Login.ToLower() == login.ToLower());
+            var doctor = await _dbContext.Doctors.FirstOrDefaultAsync(x => x.Login.ToLower() == login.ToLower());
+            var employee = await _dbContext.Employees.FirstOrDefaultAsync(x => x.Login.ToLower() == login.ToLower());
+
+            if (patient != null)
+            {
+                return patient;
+            }
+            else if (doctor != null)
+            {
+                return doctor;
+            }
+            else if (employee != null)
+            {
+                return employee;
+            }
+                        
+            return null;
         }
     }
 }
